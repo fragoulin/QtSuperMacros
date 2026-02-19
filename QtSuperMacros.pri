@@ -13,7 +13,9 @@ HEADERS += \
     $$PWD/QQmlListPropertyHelper.h \
     $$PWD/QQmlAutoPropertyHelpers.h \
     $$PWD/QQmlHelpersCommon.h \
-    $$PWD/QQmlSingletonHelper.h
+    $$PWD/QQmlSingletonHelper.h \
+    $$PWD/QQmlUniquePtrPropertyHelpers.h \
+    $$PWD/qtsupermacros.h
 
 SOURCES += \
     $$PWD/QQmlHelpers.cpp
